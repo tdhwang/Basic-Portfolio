@@ -1,0 +1,103 @@
+html {
+    height:100%;
+    width: 100%;
+}
+
+header {
+	background-color: #ffffff;
+	border-bottom-color: #cccccc;
+	font-family: 'Georgia', Times, serif;
+}
+
+body {
+	background-color: #ffffff;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	height: 100;
+	width: 100%;
+}
+h1 {
+	clear:both;
+}
+
+li {
+	display: inline-block;
+
+}
+
+p {
+	color: #777777;
+}
+
+
+.container{
+	clear: both;
+	background-color: lightgrey;
+}
+
+.maincontent {
+	width: 100%;
+	height: 100%;
+
+}
+
+.footercontainer {
+	clear: both;
+	text-align: center;
+	background-color: #666666;
+	position: relative;
+	margin-top: -150px;
+	clear:both;
+}
+
+#name{
+	background-color: #4aaaa5;
+	color: white;
+	float: left;
+}
+#tabs {
+	float: right;
+}
+
+#aboutme {
+	color: #4aaaa5;
+	background-color: white;
+}
+#insidecontent {
+	float: left;
+	width: 650px;
+	border-color: #dddddd;
+	background-color: white;
+	padding: 20px;
+	position: relative;
+}
+#mypicture{
+	float: left;
+	padding: 10px;
+}
+#biography {
+	text-align: justify;
+	padding-left: 40px;
+}
+#connectbox {
+	float: right;
+	width: 270px;
+	background-color: white;
+	margin-left: 40px
+
+}
+#foottext {
+	color: lightgrey;
+}
+
+#column1 {
+	float: left;
+}
+
+#columnn2 {
+	float: left;
+}
+
+
+
+
+
